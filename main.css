@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:hsl(0, 0%, 56%);
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+form{    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+li.completed {
+    text-decoration: line-through;
+}
+li:hover{
+    cursor: pointer;
+}
